@@ -6,4 +6,7 @@
 3. Training
 4. Customer Service
 
-
+### Code of Excellence
+- Exercise safe and productive work practices
+- Perform the highest quality and quantity of work
+- Utilize their skills and abilities to the maximum
