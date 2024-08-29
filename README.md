@@ -1,10 +1,10 @@
 # IBEW Local 48 Mission and Core Values
 
 ### Core Values
-1. Honesty
-2. Quality of Work
-3. Training
-4. Customer Service
+- Honesty
+- Quality of Work
+- Training
+- Customer Service
 
 ### Code of Excellence
 - Exercise safe and productive work practices
